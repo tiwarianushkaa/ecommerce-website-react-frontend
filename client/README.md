@@ -1,16 +1,186 @@
-# React + Vite
+🛍️ Apple-Style Modern Ecommerce Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, animated, Apple-inspired ecommerce frontend built using React, TailwindCSS, Framer Motion, and Context API.
 
-Currently, two official plugins are available:
+This project focuses on creating a premium shopping experience with clean architecture, smooth animations, and scalable component design — following product-based company engineering practices.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+🚀 Live Demo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+👉 Live Website:
+[PASTE YOUR VERCEL LINK HERE](https://ecommerce-website-react-frontend.vercel.app/)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📸 Screenshots
+
+🏠 Home Page
+
+"Home" (./public/screenshots/home.png)
+
+🛒 Products Page
+
+"Products" (./public/screenshots/products.png)
+
+📦 Product Details
+
+"Details" (./public/screenshots/product-details.png)
+
+🧺 Cart System
+
+"Cart" (./public/screenshots/cart.png)
+
+🌙 Dark Mode UI
+
+"Dark Mode" (./public/screenshots/dark-mode.png)
+
+---
+
+✨ Features
+
+🎨 UI & Experience
+
+- Apple-inspired glassmorphism navigation
+- Dark / Light mode with system preference detection
+- Smooth animations using Framer Motion
+- Responsive mobile-first design
+- Professional UI spacing and hierarchy
+
+🛒 Ecommerce Functionality
+
+- Product listing page
+- Product detail view
+- Cart system using React Context API
+- Quantity controls (+ / - buttons)
+- Subtotal calculation
+- Duplicate product handling
+- Animated add-to-cart feedback
+
+⚡ Engineering Practices
+
+- Clean component architecture
+- Reusable UI components
+- State management using Context API
+- Modular folder structure
+- SPA routing with React Router
+- Production-ready deployment
+
+---
+
+🧱 Tech Stack
+
+Frontend
+
+- React (Vite)
+- TailwindCSS
+- Framer Motion
+- React Router
+- React Hot Toast
+
+State Management
+
+- React Context API
+
+Deployment
+
+- Vercel
+
+---
+
+📁 Project Structure
+
+src/
+│
+├── components/
+│   ├── Navbar.jsx
+│   ├── ProductCard.jsx
+│
+├── pages/
+│   ├── Home.jsx
+│   ├── Products.jsx
+│   ├── ProductDetail.jsx
+│   ├── Cart.jsx
+│
+├── context/
+│   └── CartContext.jsx
+│
+├── layouts/
+│   └── MainLayout.jsx
+│
+└── data/
+    └── products.js
+
+---
+
+⚙️ Installation
+
+Clone repository:
+
+git clone YOUR_GITHUB_REPO_LINK
+
+Install dependencies:
+
+npm install
+
+Run development server:
+
+npm run dev
+
+Build production version:
+
+npm run build
+
+---
+
+🧠 Key Concepts Demonstrated
+
+- Component-driven architecture
+- Advanced UI animation techniques
+- Context API state management
+- SPA routing
+- Responsive design system
+- Professional folder organization
+
+---
+
+📦 Packages Used
+
+react
+react-dom
+react-router-dom
+tailwindcss
+framer-motion
+react-hot-toast
+vite
+
+---
+
+🌟 Future Improvements
+
+- Backend API integration
+- Authentication system
+- Payment gateway
+- Wishlist feature
+- Database persistence
+
+---
+
+👩‍💻 Author
+
+Anushka Tiwari
+
+GitHub: https://github.com/tiwarianushkaa 
+
+---
+
+⭐ Why This Project?
+
+This project demonstrates strong frontend engineering fundamentals suitable for product-based companies including FAANG-level frontend roles:
+
+- Clean architecture
+- Reusable components
+- UX-focused implementation
+- Production deployment workflow
+
+---
