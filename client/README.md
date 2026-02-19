@@ -17,7 +17,7 @@ This project focuses on creating a premium shopping experience with clean archit
 
 🏠 Home Page
 
-"Home" (./public/screenshots/home.png)
+![Home Page](./public/screenshots/home.png)
 
 🛒 Products Page
 
