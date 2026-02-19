@@ -176,7 +176,7 @@ GitHub: https://github.com/tiwarianushkaa
 
 ⭐ Why This Project?
 
-This project demonstrates strong frontend engineering fundamentals suitable for product-based companies including FAANG-level frontend roles:
+This project demonstrates strong frontend engineering fundamentals suitable for product-based companies:
 
 - Clean architecture
 - Reusable components
