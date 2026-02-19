@@ -21,19 +21,19 @@ This project focuses on creating a premium shopping experience with clean archit
 
 🛒 Products Page
 
-"Products" (./public/screenshots/products.png)
+[Products](./public/screenshots/products.png)
 
 📦 Product Details
 
-"Details" (./public/screenshots/product-details.png)
+[Details](./public/screenshots/product-details.png)
 
 🧺 Cart System
 
-"Cart" (./public/screenshots/cart.png)
+[Cart](./public/screenshots/cart.png)
 
 🌙 Dark Mode UI
 
-"Dark Mode" (./public/screenshots/dark-mode.png)
+[Dark Mode](./public/screenshots/dark-mode.png)
 
 ---
 
