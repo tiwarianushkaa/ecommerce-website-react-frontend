@@ -9,7 +9,7 @@ This project focuses on creating a premium shopping experience with clean archit
 🚀 Live Demo
 
 👉 Live Website:
-[PASTE YOUR VERCEL LINK HERE](https://ecommerce-website-react-frontend.vercel.app/)
+(https://ecommerce-website-react-frontend.vercel.app/)
 
 ---
 
