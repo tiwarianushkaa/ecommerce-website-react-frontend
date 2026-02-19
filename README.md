@@ -117,7 +117,7 @@ src/
 
 Clone repository:
 
-git clone YOUR_GITHUB_REPO_LINK
+git clone https://github.com/tiwarianushkaa/ecommerce-website-react-frontend
 
 Install dependencies:
 
